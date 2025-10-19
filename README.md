@@ -1,4 +1,4 @@
-Hey, I’m Nikita
+Hey, I’m Nikita 👋
 
 
 I am a Data Science student @ Maastricht University, with a strong interest in machine learning, data-driven systems, and quantitative finance. My academic focus is on developing solid foundations in mathematics, statistics, and computer science to apply them to real-world analytical problems.
@@ -9,8 +9,8 @@ In my free time, I enjoy tennis, running, and exploring technology that connects
 
 🌐 Socials
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-kirillov-b5a218378/)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nick.data.k?igsh=MXM3NXhraWF3dzY1cg%3D%3D&utm_source=qr)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/nikita-kirillov-b5a218378/)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/nick.data.k?igsh=MXM3NXhraWF3dzY1cg%3D%3D&utm_source=qr)
 
 
 

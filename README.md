@@ -10,8 +10,6 @@ In my free time, I enjoy tennis, running, and exploring technology that connects
 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-kirillov-b5a218378/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nick.data.k?igsh=MXM3NXhraWF3dzY1cg%3D%3D&utm_source=qr)
-
 
 
 💻 Tech Stack  

@@ -1,9 +1,10 @@
 Hey, I’m Nikita 👋
 
 
-I am a Data Science student @ Maastricht University, with a strong interest in machine learning, data-driven systems, and quantitative finance. My academic focus is on developing solid foundations in mathematics, statistics, and computer science to apply them to real-world analytical problems.
-I enjoy exploring topics such as algorithmic trading, AI model optimization, and efficient system design. Outside of academics, I regularly participate in hackathons and technical projects that combine analytical thinking with practical implementation.
-In my free time, I enjoy tennis, running, and exploring technology that connects theory with impact.
+For speaking or business inquiries — feel free to reach out at nick.data.k@gmail.com
+
+
+I’m a Bachelor’s student in Data Science & AI at Maastricht University, driven by a passion for turning complex problems into elegant, data-driven solutions. I’ve competed in programming contests, participated in hackathons, and led project teams — all because I love combining logic with creativity. Currently, my academic interests are Game Theory, Machine Learning, Statistics, and Quantitative Finance. Outside of academia, I’m interested in startups, economics, and chess. 
 
 
 

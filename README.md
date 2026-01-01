@@ -1,7 +1,7 @@
 Hey, I’m Nikita 👋
 
 
-For speaking or business inquiries — feel free to reach out at nick.data.k@gmail.com
+For speaking or business inquiries — feel free to reach out at  nick.data.k@gmail.com
 
 
 I’m a Bachelor’s student in Data Science & AI at Maastricht University, driven by a passion for turning complex problems into elegant, data-driven solutions. I’ve competed in programming contests, participated in hackathons, and led project teams — all because I love combining logic with creativity. Currently, my academic interests are Game Theory, Machine Learning, Statistics, and Quantitative Finance. Outside of academia, I’m interested in startups, economics, and chess. 

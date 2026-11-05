@@ -8,13 +8,6 @@ Honours Data Science & AI student at Maastricht University (GPA ≈4.0), focused
 Broadly interested in quantitative finance, machine learning, statistics, mathematics, game theory, and the overlap between all of them.
 Outside of academia — chess, poker, tennis & startups.
 
-
-
-🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-kirillov-b5a218378/)
-
-
 💻 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
